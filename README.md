@@ -1,5 +1,6 @@
 # poolbot
 SUMOKOIN chatango PoolBot project
+just edited XMR one (https://github.com/miziel/poolbot)
 
 ### List of available commands:
 ```
